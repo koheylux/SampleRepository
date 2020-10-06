@@ -1,0 +1,2 @@
+# SampleRepository
+リポジトリのサンプル
